@@ -1,6 +1,6 @@
 <h2> Hi, I'm Emmanuel Pallares!</h2>
 <img align='right' src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="230">
-<p><em>Web developer  
+<p><em>Web developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
     <p><em>Finanze Student  at <a href="https://www.uveg.edu.mx/index.php/es/">UVEG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 <div>
