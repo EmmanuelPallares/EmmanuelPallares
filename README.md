@@ -18,8 +18,8 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 
 ```javascript
 const thai = {
-  pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS, PHP, MYSQL ],
+  pronouns: "he" | "him",
+  code: [Javascript, HTML, CSS, PHP, MYSQL,Graphql ],
   tools: [React, Node, SASS, Bootstrap],
  
 }
