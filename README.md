@@ -1,14 +1,10 @@
 <h2> Hi, I'm Emmanuel Pallares!</h2>
 <img align='right' src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="230">
 <p><em>Web developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-    <p><em>Finanze Student  at <a href="https://www.uveg.edu.mx/index.php/es/">UVEG</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 <div>
  <p>
-I am Mid-level Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker and team player who is proficient in an array of scripting languages and multimedia Web tools.
-
-
-</p>
+I am Full-Stack Web developer able to build a Web presence from the ground up - from concept, navigation, layout and programming. Skilled at writing well-designed, testable and efficient code using current best practices in Web development. Fast learner, hard worker.</p>
 </div>
 
 
@@ -19,13 +15,12 @@ I am Mid-level Web developer able to build a Web presence from the ground up - f
 ```javascript
 const thai = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, PHP, MYSQL,Graphql ],
-  tools: [React, Node, SASS, Bootstrap],
- 
-}
+  code: [Javascript, React, CSS, NodeJS, Graphql ],
+  tools: [VSCODE, GITHUB, Photoshop ],
+ }
 ```
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Social Media </h3>
 
 <p align="center">
 <a href="https://www.emmanuelpallares.com" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.emmanuelpallares.com-blue?style=flat&logo=google-chrome"></a>
