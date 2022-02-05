@@ -13,10 +13,10 @@ I am Full-Stack Web developer able to build a Web presence from the ground up - 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const thai = {
+const vitoz.dev = {
   pronouns: "he" | "him",
-  code: [Javascript, React, CSS, NodeJS, Graphql ],
-  tools: [VSCODE, GITHUB, Photoshop ],
+  code: [Javascript, React, CSS, NodeJS, Graphql, Tailwindcss, Bootstrap, Nodejs ],
+  tools: [VSCODE, GITHUB, Photoshop, Illustrator ],
  }
 ```
 
