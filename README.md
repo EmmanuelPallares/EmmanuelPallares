@@ -1,13 +1,9 @@
 <h2>Welcome</h2>
-<h2>Creator of vitoz.dev</h2>
-<img align='right' src="https://media.giphy.com/media/SpopD7IQN2gK3qN4jS/giphy.gif" width="230">
-<p><em>Autonomous Software Developer  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-<div>
-<p>I love github because makes this moment possible, so here you find a guide from all my repositories.</p>
-</div>
-
-<h3> 🤝🏻 Social Media </h3>
+<h2>I hope your find that you searched, universe do</h2>
+<h2>bio</h2>
+<p><em>Autonomous Software Developer</em></p>
+<p>Graduated from "Universidad Virtual del Estado de Guanajuato" Finance Administrator Degree. 🎓</p>
+<h3>Social Media </h3>
 
 <p align="center">
 <a href="https://www.vitos.dev" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.vitoz.dev-blue?style=flat&logo=google-chrome"></a>
