@@ -1,19 +1,12 @@
-#Welcome
-<h2>I hope your find that you searched, universe do</h2>
-#Table of Contents
-1. [bio](#example)
-2. [](#example2)
-3. [Third Example](#third-example)
-4. [Fourth Example](#fourth-examplehttpwwwfourthexamplecom)
+<h2>Welcome</h2>
+<p>I hope your find that you searched, universe do</p>
 
-
-## [bio](#bio)
-## Example2
-## Third Example
-## [Fourth Example](http://www.fourthexample.com) 
 <h2>bio</h2>
 <p><em>Autonomous Software Developer</em></p>
 <p>Graduated from "Universidad Virtual del Estado de Guanajuato" Finance Administrator Degree. 🎓</p>
+<p>So finally I found my passion in software, that was a hard path to get here. Is one of the skills more difficult and complex after give up many times finally I came to the autonomous software developer.</p>
+<p>The inspiration cames from the feeling of interactive with computers, I see grow a lot of apps, companies, video-games, life-style all is envolved with only software. Its amazing and I wish be part of that universe.</p> 
+<p>After investigating about the future of coding development, I decided get instantly to funcional programming, because there are more benefits generally</p> 
 <h3>Social Media </h3>
 
 <p align="center">
